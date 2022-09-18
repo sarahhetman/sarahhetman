@@ -1,9 +1,9 @@
-### Hi there 👋🏾
-😄 Pronouns: she/her
-⚡ Fun fact: Simmon Creative is a woman/african american-owned creative firm.
-
-🌱 I’m currently learning with App Academy.
-📫 How to reach me: hello@simmoncreative.com
+### Hi there 👋🏾  
+😄 Pronouns: she/her  
+⚡ Fun fact: Simmon Creative is a woman/african american-owned creative firm.  
+  
+🌱 I’m currently learning with App Academy.  
+📫 How to reach me: hello@simmoncreative.com  
 💬 Ask me about Simmon Creative.
 
 <!--
