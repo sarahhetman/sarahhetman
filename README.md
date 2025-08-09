@@ -1,10 +1,9 @@
 ### Hi there 👋🏾  
 😄 Pronouns: she/her  
-⚡ Fun fact: Simmon Creative is a woman/african american-owned creative firm.  
+⚡ Fun fact: I've written 2 books that I am hoping to publlish. 😊
   
 🌱 I’m currently learning with App Academy.  
-📫 How to reach me: hello@simmoncreative.com  
-💬 Ask me about Simmon Creative.
+📫 How to reach me: sarahsimmon@outlook.com  
 
 <!--
 **sarahhetman/sarahhetman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
